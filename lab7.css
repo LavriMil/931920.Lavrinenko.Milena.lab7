@@ -1,0 +1,30 @@
+#div
+{
+position: absolute;
+}
+
+.Kva
+{
+position: absolute;
+border: 1px solid #000000;
+background: #ff4e33;
+opacity: 0.5;
+}
+
+.T
+{
+position: absolute;
+border-left: 0 solid transparent;
+border-right: 0 solid transparent;
+border-bottom: 0 solid #9400d3;
+opacity: 0.5;
+}
+
+.K
+{
+position: absolute;	
+border-radius: 100px;
+background: #00fa9a;
+border: 0.5px solid #000000;
+opacity: 0.5;
+}
